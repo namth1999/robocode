@@ -2,10 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cc6acc-3afb-48f9-96d2-477b40d211b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/robocode.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/robocode.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/window.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/window.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/META-INF/robocode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/config/robocode.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/config/window.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/nl/saxion/FirstRobo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/robot.database" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Corners.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Corners.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Crazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Crazy.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Fire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Fire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstJuniorRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/PaintingRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/PaintingRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/RamFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/RamFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SittingDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SittingDuck.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SpinBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SpinBot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/TrackFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/TrackFire.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Tracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Tracker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/VelociRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/VelociRobot.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Walls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Walls.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Alien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Alien.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/GreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterAndSlave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterAndSlave.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/RegullarMonk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Slave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstDroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstLeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstTeam.team" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/RobotColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robocode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/robocode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/robots/robot.database" beforeDir="false" afterPath="$PROJECT_DIR$/robots/robot.database" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robotsbin/production/robocode/sample/SittingDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/robotsbin/production/robocode/sample/SittingDuck.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/robotssrc/nl/saxion/FirstRobo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -67,19 +128,6 @@
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
               <item name="robocode" type="462c0819:PsiDirectoryNode" />
               <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robocode" type="462c0819:PsiDirectoryNode" />
-              <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robocode" type="462c0819:PsiDirectoryNode" />
-              <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="robocode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
@@ -166,7 +214,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23726977" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23726977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,7 +258,7 @@
     <entry file="file://$PROJECT_DIR$/robotssrc/nl/saxion/FirstRobo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
