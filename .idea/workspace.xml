@@ -2,413 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cc6acc-3afb-48f9-96d2-477b40d211b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/libraries/bcel_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/._robocode" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._battles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._robocode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._robocode.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._robots" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._robotsbin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/._robotssrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._copyright" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._libraries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/._uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/copyright/._profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/.idea/libraries/._libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/config/._robocode.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/config/._window.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robots/._robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotsbin/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotsbin/._production" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotsbin/production/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotsbin/production/._robocode" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._sampleex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._samplesentry" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/__MACOSX/robocode/robotssrc/._sampleteam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/nl/saxion/FirstRobo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Corners.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Corners.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Crazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Crazy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Fire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Fire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Interactive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Interactive.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Interactive_v2$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Interactive_v2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Interactive_v2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/MyFirstJuniorRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/MyFirstRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/MyFirstRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/PaintingRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/PaintingRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/RamFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/RamFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/SittingDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/SittingDuck.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/SpinBot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/SpinBot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Target$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Target.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/TrackFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/TrackFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Tracker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Tracker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/VelociRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/VelociRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Walls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sample/Walls.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/Alien.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/AlienComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/GreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/MasterAndSlave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/MasterAndSlave.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/MasterBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/RegullarMonk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleex/Slave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/samplesentry/BorderGuard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/samplesentry/BorderGuard.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleteam/MyFirstDroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleteam/MyFirstLeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleteam/MyFirstTeam.team" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleteam/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/out/production/robocode/sampleteam/RobotColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/battles/intro.battle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/battles/sample.battle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/config/robocode.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/config/window.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/overview-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/AdvancedRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BattleEndedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BattleResults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BattleRules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BorderSentry.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Bullet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BulletHitBulletEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BulletHitEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/BulletMissedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Condition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/CustomEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/DeathEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Droid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Event.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/GunTurnCompleteCondition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/HitByBulletEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/HitRobotEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/HitWallEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/JuniorRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/KeyEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/KeyPressedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/KeyReleasedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/KeyTypedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MessageEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseClickedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseDraggedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseEnteredEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseExitedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseMovedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MousePressedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseReleasedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MouseWheelMovedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/MoveCompleteCondition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/PaintEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RadarTurnCompleteCondition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RateControlRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Robocode.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RobocodeFileOutputStream.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RobocodeFileWriter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Robot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RobotDeathEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RobotStatus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/RoundEndedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/Rules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/ScannedRobotEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/SkippedTurnEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/StatusEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/TeamRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/TurnCompleteCondition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/WinEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/_AdvancedRadiansRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/_AdvancedRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/_Robot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/_RobotBase.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/annotation/SafeStatic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/annotation/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/annotation/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/annotation/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/BattleSpecification.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/BattlefieldSpecification.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/IRobocodeEngine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RandomFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RobocodeEngine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RobocodeListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RobotResults.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RobotSetup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/RobotSpecification.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleAdaptor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleCompletedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleErrorEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleFinishedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleMessageEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattlePausedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleResumedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/BattleStartedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/IBattleListener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/RoundEndedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/RoundStartedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/TurnEndedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/TurnStartedEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/events/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/BulletState.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/IBulletSnapshot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/IDebugProperty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/IRobotSnapshot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/IScoreSnapshot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/ITurnSnapshot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/RobotState.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/control/snapshot/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IAdvancedEvents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IAdvancedRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IBasicEvents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IBasicEvents2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IBasicEvents3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IBasicRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IInteractiveEvents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IInteractiveRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IJuniorRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IPaintEvents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/IPaintRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/ITeamEvents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/ITeamRobot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/IAdvancedRobotPeer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/IBasicRobotPeer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/IJuniorRobotPeer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/IStandardRobotPeer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/ITeamRobotPeer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/robotinterfaces/peer/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/util/Utils.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/util/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/util/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/robocode/util/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/codesize-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/picocontainer-2.14.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.battle-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.core-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.host-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.repository-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.sound-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.ui-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/robocode.ui.editor-1.9.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/libs/roborumble.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/license/epl-v10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robocode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robocode.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robots/robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Corners.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Corners.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Crazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Crazy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Fire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Fire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Interactive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Interactive.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Interactive_v2$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Interactive_v2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Interactive_v2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/MyFirstJuniorRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/MyFirstRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/MyFirstRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/PaintingRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/PaintingRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/RamFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/RamFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/SittingDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/SittingDuck.data/count.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/SittingDuck.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/SpinBot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/SpinBot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Target$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Target.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/TrackFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/TrackFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Tracker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Tracker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/VelociRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/VelociRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Walls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sample/Walls.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/Alien.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/AlienComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/GreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/MasterAndSlave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/MasterAndSlave.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/MasterBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/RegullarMonk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleex/Slave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/samplesentry/BorderGuard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/samplesentry/BorderGuard.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleteam/MyFirstDroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleteam/MyFirstLeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleteam/MyFirstTeam.team" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleteam/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotsbin/production/robocode/sampleteam/RobotColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/nl/saxion/FirstRobo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Corners.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Corners.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Corners.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Crazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Crazy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Crazy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Fire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Fire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Fire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive_v2$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive_v2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive_v2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Interactive_v2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstJuniorRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstJuniorRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/MyFirstRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/PaintingRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/PaintingRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/PaintingRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/RamFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/RamFire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/RamFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SittingDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SittingDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SittingDuck.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SpinBot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SpinBot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/SpinBot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Target$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Target.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Target.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/TrackFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/TrackFire.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/TrackFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Tracker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Tracker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Tracker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/VelociRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/VelociRobot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/VelociRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Walls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Walls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sample/Walls.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/Alien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/Alien.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/AlienComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/AlienComposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/GreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/MasterAndSlave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/MasterAndSlave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/MasterAndSlave.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/MasterBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/ProxyOfGreyEminence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/RegullarMonk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/RegullarMonk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/Slave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleex/Slave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/samplesentry/BorderGuard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/samplesentry/BorderGuard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/samplesentry/BorderGuard.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/MyFirstDroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/MyFirstDroid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/MyFirstLeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/MyFirstLeader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/MyFirstTeam.team" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/RobotColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode_template_project(3)/robocode/robotssrc/sampleteam/RobotColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/robocode.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/robocode.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/window.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/window.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots/robot.database" beforeDir="false" afterPath="$PROJECT_DIR$/robots/robot.database" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -422,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/robotssrc/sample/Corners.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="629">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -432,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/robotssrc/nl/saxion/FirstRobo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -441,6 +38,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/robocode.iml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -452,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -463,13 +66,25 @@
             <path>
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
               <item name="robocode" type="462c0819:PsiDirectoryNode" />
-              <item name="robotssrc" type="462c0819:PsiDirectoryNode" />
+              <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robocode" type="462c0819:PsiDirectoryNode" />
+              <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robocode" type="462c0819:PsiDirectoryNode" />
+              <item name="robotsbin" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="robocode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
               <item name="robocode" type="462c0819:PsiDirectoryNode" />
               <item name="robotssrc" type="462c0819:PsiDirectoryNode" />
-              <item name="saxion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
@@ -486,11 +101,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550174168778" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -527,13 +144,20 @@
       <option name="presentableId" value="Default" />
       <updated>1550172132895</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commited">
+      <created>1550172627719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550172627719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -542,7 +166,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23726977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,17 +190,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commited" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/robocode.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robocode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/robotssrc/sample/Corners.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="629">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/robotssrc/nl/saxion/FirstRobo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
