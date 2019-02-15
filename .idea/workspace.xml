@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6cc6acc-3afb-48f9-96d2-477b40d211b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/robocode.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/robocode.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/window.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/window.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/META-INF/robocode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/config/robocode.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/config/window.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/nl/saxion/FirstRobo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/robot.database" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Corners.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Corners.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Crazy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Crazy.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Fire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Fire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Interactive_v2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstJuniorRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstJuniorRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/MyFirstRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/PaintingRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/PaintingRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/RamFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/RamFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SittingDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SittingDuck.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SpinBot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/SpinBot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Target.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/TrackFire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/TrackFire.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Tracker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Tracker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/VelociRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/VelociRobot.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Walls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sample/Walls.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Alien.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition$AlienEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition$AlienMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/AlienComposition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/GreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterAndSlave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterAndSlave.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/MasterBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/ProxyOfGreyEminence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/ProxyOfGreyEminence.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/RegullarMonk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleex/Slave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard$RobotData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/samplesentry/BorderGuard.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstDroid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstLeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/MyFirstTeam.team" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/robocode/sampleteam/RobotColors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robocode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/robocode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots/robot.database" beforeDir="false" afterPath="$PROJECT_DIR$/robots/robot.database" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robotsbin/production/robocode/sample/SittingDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/robotsbin/production/robocode/sample/SittingDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robotsbin/production/robocode/nl/saxion/FirstRobo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,6 +53,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,20 +74,12 @@
             </path>
             <path>
               <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robocode" type="462c0819:PsiDirectoryNode" />
-              <item name="robotssrc" type="462c0819:PsiDirectoryNode" />
-              <item name="sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="robocode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +135,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
