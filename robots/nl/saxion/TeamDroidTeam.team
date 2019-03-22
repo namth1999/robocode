@@ -1,0 +1,7 @@
+#Robocode robot team
+#Tue Mar 19 21:14:53 CET 2019
+team.members=nl.saxion.TeamDroid*,nl.saxion.TeamLeader*,nl.saxion.TeamRobotOne*,nl.saxion.Kang*
+team.author.name=
+robocode.version=1.9.3.4
+team.description=v1.0\n
+team.version=1

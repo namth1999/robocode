@@ -1,6 +1,8 @@
 package nl.saxion;
 
-public class Vector {
+import java.io.Serializable;
+
+public class Vector implements Serializable {
 
     double x = 0;
     double y = 0;

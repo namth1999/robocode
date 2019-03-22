@@ -45,6 +45,7 @@ public class SpinBot extends AdvancedRobot {
 			// Start moving (and turning)
 			ahead(10000);
 			// Repeat.
+			execute();
 		}
 	}
 
